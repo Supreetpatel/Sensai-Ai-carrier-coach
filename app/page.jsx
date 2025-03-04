@@ -2,8 +2,8 @@ import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <>
-      <div>Hello world</div>
-    </>
+    <div>
+      <div className="grid-background"></div>
+    </div>
   );
 }
